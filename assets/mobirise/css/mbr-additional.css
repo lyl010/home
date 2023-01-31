@@ -746,6 +746,29 @@ a {
 .cid-sIXgaRBSRT .mbr-section-title {
   color: #e6c63b;
 }
+.cid-tuxSkjyngw {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/background1.jpeg");
+}
+.cid-tuxSkjyngw ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tuxSkjyngw li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tuxSkjyngw ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-sIXjGyiwjg {
   padding-top: 5rem;
   padding-bottom: 5rem;
